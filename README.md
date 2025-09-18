@@ -10,7 +10,6 @@ using a servo motor. After taking the Marcus1 apart and rebuilding the vehicle i
 ## How it moves? 
 It functions on the same principles as the Marcus1, only this time, the servo changes the direction the front-wheels are facing in order to make the car change directions. The stepper motor turns the axle which moves the car forward. Then, once it's done, it stops and servo causes the wheels to turn, before reversing the car in a different direction than before.
 Here's a video of it moving: 
-https://github.com/user-attachments/assets/6a1e63f8-5224-4401-bd86-3e3318bfe1bd
-
+![Untitledvideo-MadewithClipchamp2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/31c90e4c-84c3-418b-b0d6-f223563e81db)
 
 
