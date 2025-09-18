@@ -14,4 +14,10 @@ Here's a video of it moving:
 ## Code
 The code is identical to the Marcus1, except with the addition of the servo controls, you can find in this link: https://github.com/arifnaufalmnazri-beep/Marcus2/blob/main/Marcus2.ino
 
+## What I learned
+I learned a lot about connecting motors to actual components like gears and axle to produce movement. I also learned how to code for angles in a stepper motor, as finding the right angles to turn the wheels without having it rub against the car was a trial and error process.
+
+## What's next?
+Since I've bought more equipment, such as DC motors, soldering equipment and mosfets, I'm thinking of pushing my projects to the next level. My next experiment or project will involve DC motors, and hopefully, more advanced coding concepts that'll help me level up my skills. This marks the next step in my university scholarship journey. 
+
 
