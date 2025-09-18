@@ -12,6 +12,6 @@ Here's a video of it moving:
 ![Untitledvideo-MadewithClipchamp2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/31c90e4c-84c3-418b-b0d6-f223563e81db)
 
 ## Code
-The code is identical to the Marcus1, except with the addition of the servo controls, you can find in this link: 
+The code is identical to the Marcus1, except with the addition of the servo controls, you can find in this link: https://github.com/arifnaufalmnazri-beep/Marcus2/blob/main/Marcus2.ino
 
 
